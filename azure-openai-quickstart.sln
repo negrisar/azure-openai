@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-openai-quickstart", "azure-openai-quickstart.csproj", "{081D59E8-710E-4FBB-9705-DF8421157DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081D59E8-710E-4FBB-9705-DF8421157DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081D59E8-710E-4FBB-9705-DF8421157DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081D59E8-710E-4FBB-9705-DF8421157DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081D59E8-710E-4FBB-9705-DF8421157DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F9B087A-3841-45C3-9A12-E7F3C1D4B3D0}
+	EndGlobalSection
+EndGlobal
